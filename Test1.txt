@@ -131,9 +131,11 @@ output-->Error
              2.non static method--->does not use static keyword.
 16.class array
 {
+ int num;
  public static void main(String[] arg)
 {
   int[]  num={12,3,2,45,6,7,6};
+  System.out.println("lentgh:"length.num);
    
 }
 } 
