@@ -1,0 +1,140 @@
+
+
+1.Java -is hi level programming language ,is object oriented programming language,and it id platform independent language,java is secure,multitaksking
+  programming language.
+
+  javac -javac is java compiler,use while compiling our program we use javac
+
+2.JDK-java development kit,jdk convert our soruce file to byte code.
+      JDK contains JRE and JVM.
+  JRE-java runtime environment,jre is using only in executig the program.
+       only uses end users of the system.
+       JRE it contains libraries and Jvm
+  JVM-Java Virtual machines,it uses mainly Executing the program
+      JVM is platform dependent,
+      JVM it cotain the main role in exucuting the program use JVM
+  *JDK,JRE,JVM these 3 are platform dependent,unlike java is platform dependent
+
+5.variable-variable is used to collection of datatype
+   2 types of variable 
+    1.class  2.method                             
+     2 type calss variabl
+     1 -static variable-it contatin the static keyword
+    ex-- class Book
+        {
+             static int;
+              static String;
+         }
+     2 -non static variable -it does not contain static key word 
+         class ab
+       {
+           String name;
+           boolean value;
+        }
+                     
+     
+       methods-->2 types 
+          1.local variable-->declare with in the method.
+          2.parameterized variable----->declare with in the parameter.
+              
+3.  .java 
+    * .java is used to save the source file
+     .java
+
+
+  .class
+   *.class is mainly uses save the byte code
+
+6.object oriented programming -->object oriented prigramming is real world entity,
+       it contins---->   polymorphism,encapsulation,abstraction,iheritance
+
+7.public class Xworkx{
+public static vois main(String[] arr){
+}
+public static void main(String[] arr){
+}
+
+output-->Error
+ 
+8.data types-->2 types of data type
+   1.primitive data type
+   2.non primitive data type
+  primitive data type--->int,float,byte,char,long,double,boolean,short
+  non primitive data type---->String ,arry ,infinity (non primitive data type)
+
+9.Dot operator--->Dot operaton is Access Specifier,
+                   dot operator is used to Access methods and classes
+    ex--->System.out.println("name is xworkz");
+            
+10.java features--->
+    hi level programming language.
+    Platform independent.
+    Secure.
+    Used to bulid mobile applications
+    
+11.Array-->Array is collection of Homogeneous datatype,it used to store similar element
+         ex---->(String[] arg)
+           int[] no={1,2,3,4,5,6,7}
+            
+               
+         
+12.class--->class is collection of object.
+      object--->object is instance of class.
+  *ex-->
+     class xworkz
+     {
+        public static void main(String[] arg)
+       {
+          System.out.println("name of institute");
+        }
+     }
+14.Constructor--->
+     *Constructor is a special method
+     *Constructor contains same name as class name
+     *no return type.
+     *Constructor is used to initialize the instace variable.
+     *Constructor uses new keyword
+  
+   types-->this()---> parameter constructor.
+            super()--->it is a default constructor.
+    
+ 13.keyword-->keyword is predefined functions in java programming language.
+     *new()
+     *this()
+     *super()
+     *public()
+     *static()
+     *void()
+     *finally()
+     *import()
+     *int 
+     *char
+     
+    ex--.>class key
+        { 
+          String name;
+           key()
+          {
+           super()
+           this.name=name;
+          }
+          public static void main(String[] arg)
+        {
+           Key key=new Key()
+           System.out.println("name is:" +name);
+       }
+}
+
+     
+15.methods
+  2 types--->1.static method-->static method is used to static keyord.
+             2.non static method--->does not use static keyword.
+16.class array
+{
+ public static void main(String[] arg)
+{
+  int[]  num={12,3,2,45,6,7,6};
+   
+}
+} 
+              
